@@ -66,3 +66,4 @@ int main(){
     while( n != -1);
     a.xuat();
 }
+
