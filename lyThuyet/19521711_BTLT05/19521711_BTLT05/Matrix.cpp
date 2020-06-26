@@ -8,7 +8,7 @@ void Matrix::inputMatrix()
 	cin >> n;
 	cout << "Nhap so cot: ";
 	cin >> m;
-	Arr = new int*[n];
+	Arr = new int* [n];
 	for (int i = 0; i < n; i++)
 	{
 		Arr[i] = new int[m];

@@ -23,4 +23,3 @@ public:
 	void Tong(Matrix A);
 	void Nhan(Matrix A);
 };
-

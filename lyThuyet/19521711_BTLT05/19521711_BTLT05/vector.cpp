@@ -45,7 +45,7 @@ int Vector::getVector()
 }
 void Vector::setVector()
 {
-	int index,x;
+	int index, x;
 	cout << "Nhap vi tri index cua ban can sua: ";
 	do {
 		cin >> index;
